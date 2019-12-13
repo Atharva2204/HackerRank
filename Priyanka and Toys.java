@@ -11,7 +11,8 @@ public class pat
         for(int i=0;i<n;i++)
             w[i]=sc.nextInt();
 
-        Arrays.sort(w);
+        Arrays.sort(w);     // Sort the weights in ascending order
+        
         int b = -1,ctr=0;
 
         for(int i=0;i<n;i++)
