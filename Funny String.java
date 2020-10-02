@@ -6,7 +6,7 @@ public class fs
         Scanner sc = new Scanner(System.in);
 
         int q = sc.nextInt();
-        for(int i=0;i<q;i++)
+        for(int i=0;j=0;i<q;i++)
         {
             String str = sc.next();
             int len = str.length();
