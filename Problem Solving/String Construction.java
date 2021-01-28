@@ -13,9 +13,8 @@ public class sc
             
             Set<Character> uniqueChars = new HashSet<>();
             for(char c : s.toCharArray())
-            {
                 uniqueChars.add(c);
-            }
+            
             System.out.println(uniqueChars.size());
         }
     }
